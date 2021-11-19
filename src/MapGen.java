@@ -44,13 +44,13 @@ public class MapGen {
                 }
                 //Color print
                 if (map[l][w] == 0) {
-                    System.out.print(BLUE + "█");//Вода
+                    System.out.print(BLUE + "█");//Water
                 }
                 if (map[l][w] == 1) {
-                    System.out.print(YELLOW + "█");//Песок
+                    System.out.print(YELLOW + "█");//Sand
                 }
                 if (map[l][w] == 2) {
-                    System.out.print(GREEN + "█");//Трава
+                    System.out.print(GREEN + "█");//Grass
                 }
             }
             System.out.println();

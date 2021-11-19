@@ -1,2 +1,2 @@
 # MapGenerator
-Console  random map generator, make random size and shape islands  
+Console  random map generator, makes random size and shape islands  
